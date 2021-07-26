@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "weather",
-    "slug": "weather",
+    "name": "weather app",
+    "slug": "weather-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "react native App show today's weather ",
+    "githubUrl": "https://github.com/sssseulg2/weather.git"
   }
 }
