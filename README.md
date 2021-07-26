@@ -1,2 +1,2 @@
-# weather
-React Native App
+# How's weather today ?
+by React Native App
